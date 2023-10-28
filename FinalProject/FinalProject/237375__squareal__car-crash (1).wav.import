@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d12kiseq7t30u"
+path="res://.godot/imported/237375__squareal__car-crash (1).wav-26f649728a5517422696b811f4b05c06.sample"
+
+[deps]
+
+source_file="res://237375__squareal__car-crash (1).wav"
+dest_files=["res://.godot/imported/237375__squareal__car-crash (1).wav-26f649728a5517422696b811f4b05c06.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
